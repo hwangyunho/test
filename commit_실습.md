@@ -8,7 +8,7 @@
 1. Git과 Github는 같다. (맞으면 O, 틀리면 X)
 
    - 답 : x
-   - 이유 : git은 유저, github은 서버
+   - 이유 : git은 유저, github은  서버
 
    
 
